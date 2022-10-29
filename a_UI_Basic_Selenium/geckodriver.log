@@ -1,0 +1,55 @@
+1644899428850	geckodriver	INFO	Listening on 127.0.0.1:57426
+1644899432117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57427" "-no-remote" "-profile" "C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileFEcN8D"
+1644899433096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileFEcN8D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57427/devtools/browser/da773b13-6a62-41ac-b96b-4fbac03c4dbd
+1644899438176	Marionette	INFO	Listening on port 57434
+1644899438267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644899443327	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2303:11
+1645003393608	geckodriver	INFO	Listening on 127.0.0.1:62745
+1645003396702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62746" "-no-remote" "-profile" "C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileuRZdvQ"
+*** You are running in headless mode.
+1645003397313	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileuRZdvQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62746/devtools/browser/9c3e36c8-12ec-4753-a71c-ac9e3cbe36e3
+1645003399240	Marionette	INFO	Listening on port 62752
+1645003399405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1645004045122	geckodriver	INFO	Listening on 127.0.0.1:62900
+1645004048202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62901" "-no-remote" "-profile" "C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileKQZRDs"
+*** You are running in headless mode.
+1645004048822	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileKQZRDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62901/devtools/browser/fd08a156-9c17-45d6-a142-54d37bfe904c
+1645004051228	Marionette	INFO	Listening on port 62907
+1645004051390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1645004075351	geckodriver	INFO	Listening on 127.0.0.1:62965
+1645004078457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62966" "-no-remote" "-profile" "C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileoBiZmb"
+*** You are running in headless mode.
+1645004079055	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofileoBiZmb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62966/devtools/browser/c56b3c35-e7e6-48f1-a77e-33cd1e4d308e
+1645004081297	Marionette	INFO	Listening on port 62973
+1645004081689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+1645005069368	geckodriver	INFO	Listening on 127.0.0.1:63149
+1645005072459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63150" "-no-remote" "-profile" "C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofile5aT2uv"
+*** You are running in headless mode.
+1645005073850	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\miftah\\AppData\\Local\\Temp\\rust_mozprofile5aT2uv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63150/devtools/browser/65ead584-e0ea-4e68-8c80-fd47e8ac8e29
+1645005077416	Marionette	INFO	Listening on port 63155
+1645005077893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined

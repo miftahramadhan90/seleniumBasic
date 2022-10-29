@@ -1,0 +1,15 @@
+install Lib : pip install pytest-html
+
+#cara menggunakan report :
+1. Buat report seluruh testcase -> jalankan dari scenario.py nya (test6_custommarker.py)
+pytest.exe test6_custommarker.py -v --html=Login_Scenario_Report.html 
+
+2. Buat Report Testcase tertentu saja -> 
+pytest.exe test6_custommarker.py -v -m testloginberhasil --html=Login_Scenario_Succes_Report.html
+pytest.exe test6_custommarker.py -v -m testlogingagal --html=Login_Scenario_Failed_Report.html ''
+
+3. Buat Report Testcase spesific By keyword --> -k
+pytest .\test6_custommarker.py -v -k gal   <<akan mengetest kata kunci gal: gagal (berarti ada 3 testcase)
+pytest .\test6_custommarker.py -v -k berhasil
+
+5. -s : logs in out put ?

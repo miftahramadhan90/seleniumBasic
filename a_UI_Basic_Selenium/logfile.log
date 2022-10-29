@@ -1,0 +1,10 @@
+2022-02-21 09:51:38,447 :DEBUG : 23_logger_test :A debug statement is executed
+2022-02-21 09:51:38,447 :INFO : 23_logger_test :Information statement
+2022-02-21 09:51:38,447 :DEBUG : 23_logger_test :A debug statement is executed
+2022-02-21 09:51:38,448 :WARNING : 23_logger_test :Something is in warning mode
+2022-02-21 09:51:38,448 :ERROR : 23_logger_test :A Major error has happend
+2022-02-21 09:51:38,448 :CRITICAL : 23_logger_test :Critical issue
+2022-02-21 09:53:12,584 :INFO : 23_logger_test :Information statement
+2022-02-21 09:53:12,584 :WARNING : 23_logger_test :Something is in warning mode
+2022-02-21 09:53:12,584 :ERROR : 23_logger_test :A Major error has happend
+2022-02-21 09:53:12,584 :CRITICAL : 23_logger_test :Critical issue

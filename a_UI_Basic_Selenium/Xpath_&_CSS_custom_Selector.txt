@@ -1,0 +1,96 @@
+#CSS Customized Syntax :
+tagname[attribute='value'] - -tagname optional
+sample : input[name="name"]
+
+#Generate CSS name by ID:
+tagname#ID
+sample : input#name atau #name
+
+#Generate CSS name by ClassName:
+tagname.ClassName
+(misal byk nama classnya, cari yg kira2 uniknya dr yg lain).
+*Sample:
+<input class="r4 mtb mb16 password" type="btnx" id="pwd">
+maka caranya :
+input.password
+atau
+.password
+
+#Generate CSS Traversing Tags
+ParenTag ChildTags
+*Sample 1:
+<div id='username' attr='x'>
+   <label class='xxx' attr='××'>
+maka :
+div[id='username'] label
+
+*Sample 2 (grand parent-child):
+<form name='login' methode='post'> -Gparent
+ <div id='username' attr='x'>  ->div child[1]
+     <label class='xxx' attr='××'> ->subChild 1
+ <div id='xxxx' attr='x'>           ->div child[2]
+ <div id='yyyy' attr='x'>           ->div child[3]
+maka :
+form[name='login] label:nth-child(1)
+
+#CSS RegEx Basic :
+[attribute*='value']
+sample = [name*='name']
+
+NB:
+>cara cari si console browser:
+$(" ")
+$("input[name='name']")
+
+>Cth attribute lainnya yg biasa ada :
+ - name, type, value, dll
+#cth tagname ; input, div, dll
+
+
+=====================================
+#Xpath customized syntax :
+//tagname[@attribute='value'] -tagname wajib
+sample : //input[@type='submit']
+
+#Generate Xpath based on Text():
+//tagname[text()="xxxx"]
+sampel:
+//a[text()="Cancel"
+ Nb : bisa text apapun, cari yg uniknya.
+
+#Generate Xpath Traversing Tags
+ParenTag/ChildTags
+*1 sample :
+<div id='username' attr='x'>
+   <label class='xxx' attr='××'>
+maka :
+//div[@id='username']/label
+
+*2 sample (grand parent-child):
+<form name='login' methode='post'> -Gparent
+ <div id='username' attr='x'>  ->div child[1]
+     <label class='xxx' attr='××'> ->subChild 1
+ <div id='xxxx' attr='x'>           ->div child[2]
+ <div id='yyyy' attr='x'>           ->div child[3]
+maka :
+//form[@name='login]/div[1]/label
+
+#Xpath RegEx Basic :
+//tagname[contains(@attribut, 'value')]
+sample: 
+ //input[contains(@class, 'alert-succes')]
+atau, tag bs diganti asterik
+ //*[contains(@class, 'alert-succes')]
+
+NB:
+-selain contains: starts-with, end-with
+
+cara cari si console browser
+$x("//input[@type='submit']")
+
+- relative Xpath : custome xpath yg dibuat sesuai kita, cth(dr yg sblmnya) :
+//form[@name='login]/div[1]/label
+
+- absolute xpath : ambil traveres tag dr root html paling atas, cotntoh :
+/html[1]/body[1]/div[1]/div[3]/form[1]/label[1]
+*biasanya ini klik kanan xpath saat inpect   element.*

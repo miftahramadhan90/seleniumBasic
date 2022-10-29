@@ -1,0 +1,38 @@
+pytest is framework untuk :
+1. unit testing
+2. integration testing
+3. system test, dll
+
+#pytest library khusus yg diinstal dari python
+install dlu : pip install pytess
+
+#pytest butuh prefix keyword namafile & nama function yg diawali test_
+cth: test_login.py isi coding dalamnya sbb ; 
+        -> def test_loginsukses():
+        -> def test_logingagal():
+        -> dst..
+
+    NB : klo di dunia QA Automation 
+        test_login.py                   --> itu test scenarionya
+            -> def test_loginsukses():  --> ini testcasenya
+            -> def test_logingagal():   --> ini testcasenya
+
+#Test dengan Parameterize :
+Definisi :
+- agar tidak ada perulangan penulisan di dalam setiap fungsi def
+    misal : drv.get(''), tittle ==, dsb...
+
+- maka pytest membuat fitur mark parametrize:
+    cara :
+    - sifat : diawali decorator --> @mark.parametrize
+    - contoh :
+    1. buat dlu obj var yg isinya value2 yg berulang menggunakan tuple di dlm list :
+        Alamat = [('http://google.com', 'Google')
+                ('http://facebook.com', 'Facebook - Masuk')
+        ]
+        format decorator :
+        @pytest.mark.parametrize('seq1 in tuple', 'seq2 in tuple', iterable objectnya)
+        maka :
+        @pytest.mark.parametrize('addr', 'title', Alamat)
+
+        

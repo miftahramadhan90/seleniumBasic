@@ -1,0 +1,14 @@
+PENERAPAN : kpn menggunakan implicit dan wxplicit wait
+
+POINTS :
+- tergantung dr kondisi performance server 
+- melakukan testing ya apa dr 1 environtment network yg sama
+- bisa lakukan cek performance request page dr jmeter juga.
+- liat kondisi lainnya
+
+intinya :
+1) saat kondisi performance test bagus, dan actual load pagenya cepat cukup pakai explicit wait
+pada halaman2 tertentu saja utk mengetes unit test 
+
+2) saat performance test server dirasa cukup lambat dan atau kadang cepet kadang lambat
+ dr hasil pengecekn point2 diatas, maka gunakan implicity wait.

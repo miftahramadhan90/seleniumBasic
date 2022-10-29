@@ -1,0 +1,21 @@
+Locating Elemen :
+
+JENIS LOCATING : 
+1.	Find_element 	: untuk mencari single element  dilanjutkan dengan ACTION (.send_key, .click, dll)
+2.	Find_elements 	: untuk mencari multiple elemen  akan menghasilkan/return sebuah LIST --> [ ]
+
+METHODES : 
+1.	By Id
+2.	By Name
+3.	By Link Text  atau partial_link_text
+4.	By Tag Name  << pakai find_elements nanti keluar list nya
+5.	By Class Name
+6.	By CSS Selectors
+7.	By XPATH 
+
+Import :
+from selenium import webdriver
+dan atau ;
+from selenium.webdriver.common.by import By  --> cara lain dengan By.[Methodes]
+
+

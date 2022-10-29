@@ -1,0 +1,66 @@
+2022-02-21 22:06:57,856 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:16:26,624 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:35:53,761 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:37:33,605 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:40:31,043 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:41:01,750 :INFO : test_loginberhasil :idejongkok
+2022-02-21 22:42:28,925 :INFO : test_loginberhasil :idejongkok
+2022-02-21 23:35:21,897 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-02-21 23:37:23,291 :INFO : test_loginberhasil :idejongkok
+2022-02-21 23:42:35,838 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-02-21 23:44:26,830 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-02-21 23:44:29,558 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-02-21 23:44:32,334 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-02-21 23:44:32,334 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-02-21 23:44:35,185 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-02-21 23:44:35,185 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-02-21 23:44:35,185 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-02-22 14:45:26,462 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-02-22 14:45:28,986 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-02-22 14:45:31,511 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-02-22 14:45:31,511 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-02-22 14:45:34,069 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-02-22 14:45:34,069 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-02-22 14:45:34,069 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 14:09:55,333 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-04 14:09:58,363 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-04 14:10:01,432 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-04 14:10:01,432 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-04 14:10:04,497 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 14:10:04,497 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 14:10:04,497 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 15:02:09,888 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-04 15:02:12,849 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-04 15:02:15,947 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-04 15:02:15,947 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-04 15:02:18,884 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 15:02:18,884 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-04 15:02:18,884 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-05 09:50:17,863 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-05 09:50:20,917 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-05 09:50:23,983 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-05 09:50:23,983 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-05 09:50:26,918 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-05 09:50:26,918 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-05 09:50:26,918 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:04:41,194 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-18 10:04:44,235 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-18 10:04:47,298 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:04:47,298 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:04:50,380 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:04:50,380 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:04:50,380 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:05:15,680 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-18 10:05:18,658 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-18 10:05:21,564 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:05:21,564 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:05:24,518 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:05:24,518 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:05:24,518 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:07:58,375 :INFO : test_loginberhasil :{'username': 'idejongkok', 'password': 'asDF12#$'}
+2022-03-18 10:08:01,430 :INFO : test_logingagal :{'username': 'idejongkok', 'password': 'asaa'}
+2022-03-18 10:08:04,384 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:08:04,384 :INFO : test_logingagal :{'username': 'asaa', 'password': 'asDF12#$'}
+2022-03-18 10:08:07,415 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:08:07,415 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
+2022-03-18 10:08:07,415 :INFO : test_logingagal :{'username': 'asaaa', 'password': 'asaaaa'}
